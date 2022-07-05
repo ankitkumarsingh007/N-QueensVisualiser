@@ -3,6 +3,7 @@
 }
 
 body {
+  background-color: #f3e4b2a1;
   margin: 0;
   padding: 0;
   font-family: Arial, Helvetica, sans-serif;
@@ -10,10 +11,11 @@ body {
 
 .header {
   position: relative;
-  top: -20px;
-  width: 100%;
-  background-color: #011627;
-  color: #fdfffc;
+    top: -20px;
+    width: 100%;
+    background-color: #935757;
+    color: #ffffff;
+    text-align: center;
 }
 
 .header h2 {
@@ -157,7 +159,7 @@ div.n-queen {
   color: #fdfffc;
   width: 80px;
   height: 35px;
-  background-color: #f72585;
+  background-color: #000000;
   border-radius: 10px;
   font-size: 16px;
   font-weight: 600;
@@ -173,11 +175,11 @@ div.n-queen {
 
 .queen-arrangement {
   position: relative;
-  top: 140px;
-  text-align: center;
-  font-size: 18px;
-  font-weight: 500;
-  color: #247ba0;
+    top: 140px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+    color: #ff5b5b;
 }
 
 #n-queen-board {
@@ -221,9 +223,9 @@ h4 {
   top: -5px;
   padding: 8px;
   width: 95%;
-  background-color: #0582ca;
+  background-color: #494240;
   align-self: center;
-  color: #fdfffc;
+  color: #ffffff;
   text-align: center;
   border-radius: 4px 4px 0 0;
 }
